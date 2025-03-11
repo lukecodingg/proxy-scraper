@@ -1,2 +1,3 @@
-# proxy-scraper
-proxy scraper &amp; checker. generate and check proxies. coded in c++
+# Proxy-scraper
+Gathers and validates proxies from the web.
+# How To Use
