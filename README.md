@@ -1,9 +1,8 @@
-# Proxy-scraper
+## Proxy-scraper
 Gathers and validates proxies from the web.
 Coded in C++, making it much faster
-# How To Use
 
-# Features
+## Features
 • Scrapes proxies from the internet
 
 • DC Webhook
@@ -12,15 +11,33 @@ Coded in C++, making it much faster
 
 • Testing proxy speed
 
-# Installation
-Clone this repository:
+## Requirements
 
-git clone https://github.com/yourusername/proxy-scraper.git
+- C++ Compiler (GCC, MSVC, Clang, etc.)
+- `libcurl` (for HTTP requests)
 
-Install libcurl:
+## Installation
 
-Windows: Use vcpkg install curl
+1. Clone this repository:
+   ```sh
+   git clone https://github.com/yourusername/proxy-scraper.git
+   ```
+2. Install `libcurl`:
+   - Windows: Use `vcpkg install curl`
+   - Linux: `sudo apt install libcurl4-openssl-dev`
+3. Compile the project:
+   ```sh
+   g++ -o proxy_scraper main.cpp -lcurl
+   ```
 
-Linux: sudo apt install libcurl4-openssl-dev
+## License
 
-Compile the project:
+This project is licensed under the MIT License. Feel free to modify and distribute!
+
+## Contributing
+
+Pull requests and forks are welcome! 
+
+## Connect
+
+Discord: lukewas.taken
