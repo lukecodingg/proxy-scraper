@@ -5,6 +5,9 @@ Coded in C++, making it much faster
 
 # Features
 • Scrapes proxies from the internet
+
 • DC Webhook
+
 • Filter by country
+
 • Testing proxy speed
