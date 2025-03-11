@@ -2,7 +2,7 @@
 Gathers and validates proxies from the web.
 Coded in C++, making it much faster
 
-## Features
+## Features <img src="https://emoji.gg/assets/emoji/7087-fire.gif" width="40px">
 • Scrapes proxies from the internet
 
 • DC Webhook
@@ -20,7 +20,7 @@ Coded in C++, making it much faster
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/proxy-scraper.git
+   git clone https://github.com/lukecodingg/proxy-scraper.git
    ```
 2. Install `libcurl`:
    - Windows: Use `vcpkg install curl`
