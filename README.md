@@ -11,3 +11,16 @@ Coded in C++, making it much faster
 • Filter by country
 
 • Testing proxy speed
+
+# Installation
+Clone this repository:
+
+git clone https://github.com/yourusername/proxy-scraper.git
+
+Install libcurl:
+
+Windows: Use vcpkg install curl
+
+Linux: sudo apt install libcurl4-openssl-dev
+
+Compile the project:
